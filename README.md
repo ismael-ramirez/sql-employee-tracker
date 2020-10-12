@@ -1,6 +1,9 @@
 # **SQL Employee Tracker**                 [![License](https://img.shields.io/badge/License--blue.svg)](https://opensource.org/licenses/)
   # Project Description
   An application that's able to view and manage the departments, roles, and employees in the company. Ideal for the planning and organization of a company business.
+  # Walkthrough Video Link
+  http://github.com - Link to walkthrough video!
+
   # Table of Contents
   * [Installation](#installation)
   * [Usage](#usage)
